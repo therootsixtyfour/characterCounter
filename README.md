@@ -1,0 +1,1 @@
+character counter following guidance from JavaScript King 16 projects for beginners
